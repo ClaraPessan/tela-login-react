@@ -1,0 +1,16 @@
+.button {
+    width: 170px;
+    height: 40px;
+    border: none;
+    background: #64005A;
+    border-radius: 50px;
+    font-size: 20px;
+    font-weight: 600;
+    color: white;
+    text-transform: uppercase;
+    cursor: pointer;
+
+    &:hover {
+        background-image: linear-gradient(to right, #840678, #6c0b9a);
+    }
+}

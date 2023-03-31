@@ -1,0 +1,16 @@
+.box {
+    width: 440px;
+    height: auto;
+    background: rgba(236, 196, 232, 0.333);
+    border-radius: 30px;
+    margin: 100px;
+    padding: 20px;
+
+    &__titulo {
+        text-align: center;
+        font-weight: 700;
+        font-size: 40px;
+        line-height: 49px;
+        color: rgba(169, 0, 152, 1);
+    }
+}
